@@ -3,7 +3,7 @@ terraform {
     organization = "mtc-terransible-project"
 
     workspaces {
-      name = "terransible-devops"
+      name = "terransible-devops1"
     }
   }
 }
